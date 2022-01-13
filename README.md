@@ -1,8 +1,13 @@
 ## GuilhermeSantos001
 <div align="center">
   <a href="https://github.com/guilhermesantos001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesantos001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantos001&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesantos001&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantos001&layout=compact&theme=dracula"/>
+</div>
+<div align="center">
+  <img height="95em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermesantos001&repo=grupomavedigital&show_owner=true&theme=dracula"/>
+  <img height="95em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermesantos001&repo=grupomavedigital_client&show_owner=true&theme=dracula"/>
+  <img height="95em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermesantos001&repo=grupomavedigital_docs&show_owner=true&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
