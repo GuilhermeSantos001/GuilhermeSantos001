@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantos001&count_private=true&layout=compact&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+<div align="center">
 <img align="center" alt="Javascript" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Typescript" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Node JS" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
@@ -16,6 +17,9 @@
 <img align="center" alt="HTML" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Danicaus-Sass" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+</div>
+</div>
+<div align="center">
 <img align="center" alt="Nginx" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
 <img align="center" alt="MongoDB" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 <img align="center" alt="MongoDB" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
