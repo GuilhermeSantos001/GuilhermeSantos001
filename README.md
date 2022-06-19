@@ -1,4 +1,15 @@
 ## GuilhermeSantos001
+
+### Olá 👋
+
+Prazer, me chamo Guilherme Tenho 23 Anos. Sou desenvolvedor Full-Stack, estou na área desde 2017. Atualmente desenvolvendo projetos com foco em boas praticas e na utilização das melhores tecnologias atuais do mercado. Estou cursando Analise e Desenvolvimento de Sistemas, consolidando conhecimento para transformar em experiência profissional.
+
+Arquitetura, Engenharia e Implementação (Local/Cloud) são minhas tarefas cotidianas 🚀
+
+Entre em contato comigo! luizgp120@hotmai.com
+
+Atualmente trabalhando com:
+
 <div align="center">
   <a href="https://github.com/guilhermesantos001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesantos001&count_private=true&show_icons=true&theme=dracula"/>
