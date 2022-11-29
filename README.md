@@ -1,3 +1,5 @@
+<img align="right" src="https://www.grmdocumentmanagement.com/wp-content/uploads/2020/10/medical-coding-workflow.png" width="260"/>
+
 ## GuilhermeSantos001
 
 ### Olá 👋
