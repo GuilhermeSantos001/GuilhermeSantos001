@@ -61,8 +61,8 @@ Atualmente trabalhando com:
   <a href="https://www.linkedin.com/in/guilherme-santos-3447b8154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
+  ![Snake animation](https://github.com/danicaus/danicaus/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=guilhermesantos001&&style=flat-square" align="center" />
-</div>
-  
-  ![Snake animation](https://github.com/danicaus/danicaus/blob/output/github-contribution-grid-snake.svg)
+</div>  
