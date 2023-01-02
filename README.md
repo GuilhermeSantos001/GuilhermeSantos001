@@ -1,4 +1,7 @@
+<div align="right">
 <img align="right" src="https://www.grmdocumentmanagement.com/wp-content/uploads/2020/10/medical-coding-workflow.png" width="260"/>
+<img src="https://komarev.com/ghpvc/?username=guilhermesantos001&&style=flat-square" align="center" />
+</div>  
 
 ## GuilhermeSantos001
 
@@ -62,7 +65,3 @@ Atualmente trabalhando com:
 </div>
   
   ![Snake animation](https://github.com/danicaus/danicaus/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=guilhermesantos001&&style=flat-square" align="center" />
-</div>  
