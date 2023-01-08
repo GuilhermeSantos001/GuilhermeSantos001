@@ -3,7 +3,16 @@
 <img src="https://komarev.com/ghpvc/?username=guilhermesantos001&&style=flat-square" align="center" />
 </div>  
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## GuilhermeSantos001
+
+<div align="right">
+<img align="right" src="https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/74IhNF2m0VsDiurjYt9Q58/deb07d428a4a25acd70c92f6c7fcfca4/R6S_RANK_500x500_Champions_01.png" width="260"/>
+<a href="https://"><img src="https://img.shields.io/badge/Ranking-Senior_Engineer-e62031" alt="Ranking - Senior Engineer"></a>
+</div>  
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=guilhermesantos001&theme=dark&hide_border=false)<br/>
 
 ### Olá 👋
 
@@ -16,10 +25,9 @@ Entre em contato comigo! luizgp120@hotmail.com
 Atualmente trabalhando com:
 
 <div align="center">
-  <a href="https://github.com/guilhermesantos001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesantos001&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantos001&count_private=true&layout=compact&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesantos001&count_private=true&layout=compact&theme=dracula"/>    
+</div>  
 <div style="display: inline_block"><br>
 <div align="center">
 <img align="center" alt="Javascript" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -52,7 +60,7 @@ Atualmente trabalhando com:
 <img align="center" alt="Redis" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
 <img align="center" alt="Redis" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
 <img align="center" alt="Redis" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-</div>
+</div>  
   
   ##
  
@@ -63,5 +71,5 @@ Atualmente trabalhando com:
   <a href = "mailto:luizgp120@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/guilherme-santos-3447b8154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
+
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
