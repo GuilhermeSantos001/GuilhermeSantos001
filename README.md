@@ -11,9 +11,14 @@
 
 Prazer, me chamo Guilherme Tenho 23 Anos. Sou desenvolvedor Full-Stack, estou na área desde 2017. Atualmente desenvolvendo projetos com foco em boas praticas e na utilização das melhores tecnologias atuais do mercado. Estou cursando Analise e Desenvolvimento de Sistemas, consolidando conhecimento para transformar em experiência profissional.
 
-Arquitetura, Engenharia e Implementação (Local/Cloud) são minhas tarefas cotidianas 🚀
+> Arquitetura, Engenharia e Implementação 🚀
 
-Entre em contato comigo! luizgp120@hotmail.com
+<details>
+  <summary>Entre em contato comigo!</summary>
+
+> luizgp120@hotmail.com
+  
+</details>
 
 <div align="center">
   <h2> <strong>Status</strong> <img src="https://imgur.com/mlbGPyp.gif"></h2>
