@@ -3,8 +3,6 @@
 
 <div align="right">
 <img align="right" src="https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/74IhNF2m0VsDiurjYt9Q58/deb07d428a4a25acd70c92f6c7fcfca4/R6S_RANK_500x500_Champions_01.png" width="260"/>
-<a href="https://"><img src="https://img.shields.io/badge/Ranking-Senior_Engineer-e62031" alt="Ranking - Senior Engineer"></a><br/>
-<img src="https://komarev.com/ghpvc/?username=guilhermesantos001&&style=flat-square" align="center" />
 </div>
 
 ### Olá 👋
@@ -19,6 +17,9 @@ Prazer, me chamo Guilherme Tenho 23 Anos. Sou desenvolvedor Full-Stack, estou na
 > luizgp120@hotmail.com
   
 </details>
+
+<a href="https://"><img src="https://img.shields.io/badge/Ranking-Senior_Engineer-e62031" alt="Ranking - Senior Engineer"></a><br/>
+<img src="https://komarev.com/ghpvc/?username=guilhermesantos001&&style=flat-square" align="center" />
 
 <div align="center">
   <h2> <strong>Status</strong> <img src="https://imgur.com/mlbGPyp.gif"></h2>
