@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=GuilhermeSantos001" align="middle" alt="GuilhermeSantos001">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=ff4242&center=true&vCenter=true&width=940&height=50&lines=GuilhermeSantos001" align="middle" alt="GuilhermeSantos001">
 <img src="https://imgur.com/mlbGPyp.gif">
 
 <div align="right">
