@@ -24,8 +24,8 @@ Prazer, me chamo Guilherme Tenho 23 Anos. Sou desenvolvedor Full-Stack, estou na
 <div align="center">
   <h2> <strong>Status</strong> <img src="https://imgur.com/mlbGPyp.gif"></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=guilhermesantos001&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GuilhermeSantos001&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermesantos001&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com/?user=guilhermesantos001&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermesantos001&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true&rank_icon=github" height="150" alt="stats graph"  />
 </div>
 
 <div align="center">
