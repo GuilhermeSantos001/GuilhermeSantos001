@@ -7,7 +7,13 @@
 
 ### Olá 👋
 
-Prazer, me chamo Guilherme Tenho 25 Anos. Sou desenvolvedor Full-Stack, estou na área desde 2017. Atualmente desenvolvendo projetos com foco em boas praticas e na utilização das melhores tecnologias atuais do mercado. Estou cursando Analise e Desenvolvimento de Sistemas, consolidando conhecimento para transformar em experiência profissional.
+Sou um programador apaixonado por encontrar soluções práticas, com grande apreço pelo trabalho em equipe e focado em agilidade. A descrição pode parecer breve, mas a verdade é que minha jornada poderia preencher páginas. No entanto, para poupar seu tempo, vou ser objetivo.
+
+Minha entrada no mundo do desenvolvimento aconteceu por meio dos games. Comecei criando plugins para o RPG MAKER MV, publicados sob o nickname Dr.Xamã (https://github.com/DrXama/Dr.Xama---RPG-MAKER-MV). Sempre me encantou a ideia de desenvolver algo útil para a comunidade. Com o passar do tempo, meu interesse se expandiu para o desenvolvimento de software para a web, onde me especializei principalmente nas stacks Node e React, além de outras tecnologias complementares.
+
+Além disso, sou fundador da Lack Zillions Over (LZO, https://github.com/Lack-Zillions-Over), uma comunidade open-source dedicada a fomentar o desenvolvimento colaborativo.
+
+Acredito que minha trajetória se resume a uma constante busca por conhecimento e evolução, e pretendo continuar nessa jornada.
 
 > Arquitetura, Engenharia e Implementação 🚀
 
