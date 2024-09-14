@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=ff4242&center=true&vCenter=true&width=940&height=50&lines=GuilhermeSantos001" align="middle" alt="GuilhermeSantos001">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=42cef5&center=true&vCenter=true&width=940&height=50&lines=GuilhermeSantos001" align="middle" alt="GuilhermeSantos001">
 <img src="https://imgur.com/mlbGPyp.gif">
 
 <div align="right">
-<img align="right" src="https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/74IhNF2m0VsDiurjYt9Q58/deb07d428a4a25acd70c92f6c7fcfca4/R6S_RANK_500x500_Champions_01.png" width="260"/>
+<img align="right" src="https://raw.githubusercontent.com/GuilhermeSantos001/GuilhermeSantos001/main/LOGO%20GL.png" width="260"/>
 </div>
 
 ### Olá 👋
