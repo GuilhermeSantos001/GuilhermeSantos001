@@ -25,6 +25,26 @@ Sou cofundador da [Vestalis](https://www.vestalis.com.br/). A Vestalis põe a in
 
 No ar hoje: CRM, ERP, FAMA (marketing com uma pessoa aprovando antes de publicar) e sistema sob medida. O código e os dados ficam com o cliente. A IA recebe só o dado de cada tarefa. O que é sensível passa por alguém da equipe.
 
+### IA e o fluxo de desenvolvimento
+
+Sou especialista em fluxo agêntico de desenvolvimento. Opero [Codex](https://github.com/openai/codex), [Claude Code](https://claude.com/product/claude-code) e [OpenCode](https://opencode.ai) com o mesmo método: o agente escreve, testa e propõe. Eu fecho o contrato e decido o que entra.
+
+<p>
+  <a href="https://github.com/openai/codex"><img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"></a>
+  <a href="https://claude.com/product/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"></a>
+  <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge" alt="OpenCode"></a>
+</p>
+
+O fluxo tem cinco passos.
+
+1. **Contrato.** O que o trabalho resolve, o que fica de fora e como se prova que terminou. Isso fica escrito antes da primeira linha.
+2. **Plano.** A ordem das mudanças e o que pode andar junto. O escopo fica no contrato.
+3. **Execução.** Codex, Claude Code ou OpenCode implementam dentro desse contrato, com teste junto da mudança. O harness muda. O método fica.
+4. **Prova.** A suíte local e a revisão do diff. A saída do modelo é proposta: eu leio, corto e só então aceito.
+5. **Decisão.** Merge e produção passam por uma pessoa. A IA opera. Eu comando.
+
+Em volta do harness ficam as ferramentas que deixam o agente útil e limitado ao trabalho: especificação versionada, testes, MCP para o que ele pode consultar, e revisão antes de publicar.
+
 ### Em aberto
 
 Na [Lack Zillions Over](https://github.com/Lack-Zillions-Over) a regra é ferramenta pequena, com um trabalho só.
