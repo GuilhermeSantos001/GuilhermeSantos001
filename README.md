@@ -7,23 +7,23 @@
 
 ### Olá 👋
 
-Curitiba · no GitHub desde 2016 · [vestalis.com.br](https://www.vestalis.com.br/)
+Curitiba · no GitHub desde 2016 · [DIVAM](https://divam.com.br) · [Vestalis](https://www.vestalis.com.br/)
 
-Sou um programador apaixonado por encontrar soluções práticas, com grande apreço pelo trabalho em equipe e focado em agilidade. A descrição pode parecer breve, mas a verdade é que minha jornada poderia preencher páginas. No entanto, para poupar seu tempo, vou ser objetivo.
+Sou engenheiro de software. Gosto de solução prática, de time e de ver o sistema em uso. A carreira tem três tempos.
 
-Minha entrada no mundo do desenvolvimento aconteceu por meio dos games. Comecei criando plugins para o RPG MAKER MV, publicados sob o nickname Dr.Xamã (https://github.com/DrXama/Dr.Xama---RPG-MAKER-MV). Sempre me encantou a ideia de desenvolver algo útil para a comunidade. Com o passar do tempo, meu interesse se expandiu para o desenvolvimento de software para a web, onde me especializei principalmente nas stacks Node e React, além de outras tecnologias complementares.
+No primeiro, entrei pelos games. Publiquei plugins de RPG Maker MV como [Dr.Xamã](https://github.com/DrXama/Dr.Xama---RPG-MAKER-MV) e, dali, passei para a web em Node e React. Fundei a [Lack Zillions Over](https://github.com/Lack-Zillions-Over) para deixar ferramenta pequena à disposição de quem desenvolve.
 
-Além disso, sou fundador da Lack Zillions Over (LZO, https://github.com/Lack-Zillions-Over), uma comunidade open-source dedicada a fomentar o desenvolvimento colaborativo.
+O segundo tempo é a [DIVAM](https://divam.com.br). A DIVAM conecta a pessoa a psicólogo, psiquiatra, nutricionista e yoga, com sessão online, agenda e aplicativo. A frase da casa cabe no produto: conectar você ao seu melhor. No site, a plataforma publica mais de 350 profissionais e mais de 50 mil atendimentos por mês.
 
-Acredito que minha trajetória se resume a uma constante busca por conhecimento e evolução, e pretendo continuar nessa jornada.
+Minha contribuição está na engenharia dessa plataforma. Trabalhei no sistema em que o paciente encontra o profissional, agenda e faz a sessão, e no que o profissional usa para atender: agenda, videochamada, pagamento e a operação do consultório online. O aplicativo, na App Store e na Google Play, é a mesma casa. Esse volume de atendimento passa pelo software em que eu trabalhei.
+
+O terceiro tempo é a fase nova, e eu sou cofundador. A [Vestalis](https://www.vestalis.com.br/) põe a inteligência artificial para operar dentro do negócio, encaixada no jeito que a empresa já trabalha, e mostra o resultado em dinheiro todo mês. Você comanda. Elas operam. Na DIVAM a entrega era a engenharia de um produto de saúde. Na Vestalis a entrega é a operação de outras empresas: o processo continua o da casa, a IA assume o que se repete, e o número de antes e o de agora ficam visíveis.
 
 > Arquitetura, Engenharia e Implementação 🚀
 
 ### Agora
 
-Sou cofundador da [Vestalis](https://www.vestalis.com.br/). A Vestalis põe a inteligência artificial para operar dentro do negócio, encaixada no jeito que a empresa já trabalha, e mostra o resultado em dinheiro todo mês. Você comanda. Elas operam.
-
-No ar hoje: CRM, ERP, FAMA (marketing com uma pessoa aprovando antes de publicar) e sistema sob medida. O código e os dados ficam com o cliente. A IA recebe só o dado de cada tarefa. O que é sensível passa por alguém da equipe.
+Na Vestalis, o que está no ar: CRM, ERP, FAMA (marketing com uma pessoa aprovando antes de publicar) e sistema sob medida. O código e os dados ficam com o cliente. A IA recebe só o dado de cada tarefa. O que é sensível passa por alguém da equipe.
 
 ### IA e o fluxo de desenvolvimento
 
@@ -88,6 +88,7 @@ Os plugins de RPG Maker MV continuam em [Dr.Xamã](https://github.com/DrXama/Dr.
 </div>
 
 <div align="center">
+  <a href="https://divam.com.br" target="_blank"><img src="https://img.shields.io/badge/DIVAM-7C3AED?style=for-the-badge" alt="DIVAM"></a>
   <a href="https://www.vestalis.com.br/" target="_blank"><img src="https://img.shields.io/badge/Vestalis-42cef5?style=for-the-badge" alt="Vestalis"></a>
   <a href="https://www.twitch.tv/guilhermesantos001" target="_blank"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
   <a href="https://www.youtube.com/channel/UCXYo6bauTRlaJnD0JNlpdRw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
