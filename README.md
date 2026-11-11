@@ -7,6 +7,8 @@
 
 ### Olá 👋
 
+Curitiba · no GitHub desde 2016 · [vestalis.com.br](https://www.vestalis.com.br/)
+
 Sou um programador apaixonado por encontrar soluções práticas, com grande apreço pelo trabalho em equipe e focado em agilidade. A descrição pode parecer breve, mas a verdade é que minha jornada poderia preencher páginas. No entanto, para poupar seu tempo, vou ser objetivo.
 
 Minha entrada no mundo do desenvolvimento aconteceu por meio dos games. Comecei criando plugins para o RPG MAKER MV, publicados sob o nickname Dr.Xamã (https://github.com/DrXama/Dr.Xama---RPG-MAKER-MV). Sempre me encantou a ideia de desenvolver algo útil para a comunidade. Com o passar do tempo, meu interesse se expandiu para o desenvolvimento de software para a web, onde me especializei principalmente nas stacks Node e React, além de outras tecnologias complementares.
@@ -17,11 +19,32 @@ Acredito que minha trajetória se resume a uma constante busca por conhecimento 
 
 > Arquitetura, Engenharia e Implementação 🚀
 
+### Agora
+
+Sou cofundador da [Vestalis](https://www.vestalis.com.br/). A Vestalis põe a inteligência artificial para operar dentro do negócio, encaixada no jeito que a empresa já trabalha, e mostra o resultado em dinheiro todo mês. Você comanda. Elas operam.
+
+No ar hoje: CRM, ERP, FAMA (marketing com uma pessoa aprovando antes de publicar) e sistema sob medida. O código e os dados ficam com o cliente. A IA recebe só o dado de cada tarefa. O que é sensível passa por alguém da equipe.
+
+### Em aberto
+
+Na [Lack Zillions Over](https://github.com/Lack-Zillions-Over) a regra é ferramenta pequena, com um trabalho só.
+
+| Projeto | O que faz |
+| --- | --- |
+| [niro-health](https://github.com/Lack-Zillions-Over/niro-health) | Base em NestJS para começar um servidor com o que já foi resolvido no dia a dia |
+| [hyperc](https://github.com/Lack-Zillions-Over/hyperc) | Cache em Node.js |
+| [zensky](https://github.com/Lack-Zillions-Over/zensky) | Pub/sub com Redis |
+| [sapphire](https://github.com/Lack-Zillions-Over/sapphire) | Pub/sub com RabbitMQ |
+| [crypto](https://github.com/Lack-Zillions-Over/crypto) | Cifrar e decifrar dados |
+| [i18n](https://github.com/Lack-Zillions-Over/i18n) | Textos da aplicação em mais de um idioma |
+
+Os plugins de RPG Maker MV continuam em [Dr.Xamã](https://github.com/DrXama/Dr.Xama---RPG-MAKER-MV).
+
 <details>
   <summary>Entre em contato comigo!</summary>
 
 > luizgp120@hotmail.com
-  
+
 </details>
 
 <img src="https://img.shields.io/badge/Ranking-Senior_Engineer-e62031" alt="Ranking - Senior Engineer"><br/>
@@ -35,23 +58,28 @@ Acredito que minha trajetória se resume a uma constante busca por conhecimento 
 
 <div align="center">
   <h2> <strong>Skills</strong> <img src="https://i.imgur.com/mlbGPyp.gif" alt=""></h2>
-  <img src="https://skillicons.dev/icons?i=git,githubactions,linux,docker,vscode,html,css,nodejs,js,ts,express,nestjs,graphql,jest,angular,react,redux,nextjs,vite,webpack,bootstrap,sass,pug,materialui,nginx,figma,netlify,heroku,prisma,electron,aws,azure,bash,postgres,firebase,sqlite,mongodb,mysql,redis" alt="Habilidades"> <br> 
+  <img src="https://skillicons.dev/icons?i=git,githubactions,linux,docker,vscode,html,css,nodejs,js,ts,express,nestjs,graphql,jest,angular,react,redux,nextjs,vite,webpack,bootstrap,sass,pug,materialui,nginx,figma,netlify,heroku,prisma,electron,aws,azure,bash,postgres,firebase,sqlite,mongodb,mysql,redis" alt="Habilidades"> <br>
 </div>
-  
+
 <img src="https://i.imgur.com/mlbGPyp.gif" alt="">
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false" alt="Citação">
 </div>
- 
-<div align="center"> 
+
+<div align="center">
+  <a href="https://www.vestalis.com.br/" target="_blank"><img src="https://img.shields.io/badge/Vestalis-42cef5?style=for-the-badge" alt="Vestalis"></a>
   <a href="https://www.twitch.tv/guilhermesantos001" target="_blank"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
   <a href="https://www.youtube.com/channel/UCXYo6bauTRlaJnD0JNlpdRw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:spgamesoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="mailto:luizgp120@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft&logoColor=white" alt="Outlook"></a>  
-  <a href="https://www.linkedin.com/in/guilherme-santos-3447b8154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="mailto:luizgp120@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft&logoColor=white" alt="Outlook"></a>
+  <a href="https://www.linkedin.com/in/guilherme-santos-3447b8154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/GuilhermeSantos001/GuilhermeSantos001/output/github-contribution-grid-snake.svg" alt="Contribuições">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeSantos001/GuilhermeSantos001/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeSantos001/GuilhermeSantos001/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribuições" src="https://raw.githubusercontent.com/GuilhermeSantos001/GuilhermeSantos001/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
