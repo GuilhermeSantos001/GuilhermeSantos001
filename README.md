@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=42cef5&center=true&vCenter=true&width=940&height=50&lines=GuilhermeSantos001" align="middle" alt="GuilhermeSantos001">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=42cef5&center=true&vCenter=true&width=940&height=50&lines=Cofundador+da+Vestalis;Construindo+agora;GuilhermeSantos001" align="middle" alt="Cofundador da Vestalis">
 <img src="https://i.imgur.com/mlbGPyp.gif" alt="">
 
 <div align="right">
@@ -7,27 +7,29 @@
 
 ### Olá 👋
 
-Curitiba · no GitHub desde 2016 · [DIVAM](https://divam.com.br) · [Vestalis](https://www.vestalis.com.br/)
+Cofundador da [Vestalis](https://www.vestalis.com.br/) · em atividade · Curitiba
 
-Sou engenheiro de software. Gosto de solução prática, de time e de ver o sistema em uso. A carreira tem três tempos.
+Estou nesta fase agora. A Vestalis é a empresa que eu cofundei para pôr a inteligência artificial para operar dentro do negócio, no processo que a empresa já tem, com o resultado em dinheiro todo mês. Você comanda. Elas operam.
 
-No primeiro, entrei pelos games. Publiquei plugins de RPG Maker MV como [Dr.Xamã](https://github.com/DrXama/Dr.Xama---RPG-MAKER-MV) e, dali, passei para a web em Node e React. Fundei a [Lack Zillions Over](https://github.com/Lack-Zillions-Over) para deixar ferramenta pequena à disposição de quem desenvolve.
-
-O segundo tempo é a [DIVAM](https://divam.com.br). A DIVAM conecta a pessoa a psicólogo, psiquiatra, nutricionista e yoga, com sessão online, agenda e aplicativo. A frase da casa cabe no produto: conectar você ao seu melhor. No site, a plataforma publica mais de 350 profissionais e mais de 50 mil atendimentos por mês.
-
-Minha contribuição está na engenharia dessa plataforma. Trabalhei no sistema em que o paciente encontra o profissional, agenda e faz a sessão, e no que o profissional usa para atender: agenda, videochamada, pagamento e a operação do consultório online. O aplicativo, na App Store e na Google Play, é a mesma casa. Esse volume de atendimento passa pelo software em que eu trabalhei.
-
-O terceiro tempo é a fase nova, e eu sou cofundador. A [Vestalis](https://www.vestalis.com.br/) põe a inteligência artificial para operar dentro do negócio, encaixada no jeito que a empresa já trabalha, e mostra o resultado em dinheiro todo mês. Você comanda. Elas operam. Na DIVAM a entrega era a engenharia de um produto de saúde. Na Vestalis a entrega é a operação de outras empresas: o processo continua o da casa, a IA assume o que se repete, e o número de antes e o de agora ficam visíveis.
+Meu trabalho atual é construir isso. No ar: CRM, ERP, FAMA (marketing com uma pessoa aprovando antes de publicar) e sistema sob medida. No dia a dia eu fecho o contrato, o plano e a prova, e opero o Codex, o Claude Code e o OpenCode para implementar. O código e os dados ficam com o cliente. O mês de trabalho aparece no produto que a empresa usa.
 
 > Arquitetura, Engenharia e Implementação 🚀
 
 ### Agora
 
-Na Vestalis, o que está no ar: CRM, ERP, FAMA (marketing com uma pessoa aprovando antes de publicar) e sistema sob medida. O código e os dados ficam com o cliente. A IA recebe só o dado de cada tarefa. O que é sensível passa por alguém da equipe.
+A primeira entrega fica pronta em semanas. A operação da empresa segue rodando, e o próximo passo só vem com resultado no caixa. A IA recebe só o dado de cada tarefa. O que é sensível passa por alguém da equipe.
+
+### Trajetória
+
+No GitHub desde 2016. Entrei pelos games, com plugins de RPG Maker MV publicados como [Dr.Xamã](https://github.com/DrXama/Dr.Xama---RPG-MAKER-MV), e passei para a web em Node e React. Fundei a [Lack Zillions Over](https://github.com/Lack-Zillions-Over) para deixar ferramenta pequena à disposição de quem desenvolve.
+
+Antes da Vestalis, contribuí com a engenharia da [DIVAM](https://divam.com.br). A DIVAM conecta a pessoa a psicólogo, psiquiatra, nutricionista e yoga, com sessão online, agenda e aplicativo. A frase da casa cabe no produto: conectar você ao seu melhor. No site, a plataforma publica mais de 350 profissionais e mais de 50 mil atendimentos por mês.
+
+Trabalhei no sistema em que o paciente encontra o profissional, agenda e faz a sessão, e no que o profissional usa para atender: agenda, videochamada, pagamento e a operação do consultório online. O aplicativo, na App Store e na Google Play, é a mesma casa. Esse volume de atendimento passa pelo software em que eu trabalhei. Dessa entrega veio a fase atual: sair de um produto e passar a construir, como cofundador, a operação de outras empresas.
 
 ### IA e o fluxo de desenvolvimento
 
-Sou especialista em fluxo agêntico de desenvolvimento. Opero [Codex](https://github.com/openai/codex), [Claude Code](https://claude.com/product/claude-code) e [OpenCode](https://opencode.ai) com o mesmo método: o agente escreve, testa e propõe. Eu fecho o contrato e decido o que entra.
+É assim que a Vestalis é construída hoje. Sou especialista em fluxo agêntico de desenvolvimento e opero [Codex](https://github.com/openai/codex), [Claude Code](https://claude.com/product/claude-code) e [OpenCode](https://opencode.ai) com o mesmo método: o agente escreve, testa e propõe. Eu fecho o contrato e decido o que entra.
 
 <p>
   <a href="https://github.com/openai/codex"><img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"></a>
@@ -45,7 +47,7 @@ O fluxo tem cinco passos.
 
 Em volta do harness ficam as ferramentas que deixam o agente útil e limitado ao trabalho: especificação versionada, testes, MCP para o que ele pode consultar, e revisão antes de publicar.
 
-### Em aberto
+### Código aberto
 
 Na [Lack Zillions Over](https://github.com/Lack-Zillions-Over) a regra é ferramenta pequena, com um trabalho só.
 
