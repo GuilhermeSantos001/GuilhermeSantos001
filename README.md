@@ -47,6 +47,19 @@ O fluxo tem cinco passos.
 
 Em volta do harness ficam as ferramentas que deixam o agente útil e limitado ao trabalho: especificação versionada, testes, MCP para o que ele pode consultar, e revisão antes de publicar.
 
+### Ambiente
+
+O dia a dia é Linux. A máquina de agora roda Fedora, com KDE. O trabalho fica no terminal: [Alacritty](https://alacritty.org/), [zsh](https://www.zsh.org/) com [Starship](https://starship.rs/) e [tmux](https://github.com/tmux/tmux). A sessão, os panes e o contexto continuam abertos enquanto os agentes implementam.
+
+| Programa | No que entra |
+| --- | --- |
+| [tmux](https://github.com/tmux/tmux) | Sessões e panes. O trabalho não depende de uma janela só |
+| [Alacritty](https://alacritty.org/) | O terminal |
+| zsh + [Starship](https://starship.rs/) | O shell, com [fzf](https://github.com/junegunn/fzf), [ripgrep](https://github.com/BurntSushi/ripgrep) e [bat](https://github.com/sharkdp/bat) para achar e ler código |
+| git e [GitHub CLI](https://cli.github.com/) | Branch, revisão e repositório |
+| [Docker](https://www.docker.com/) | O ambiente que o serviço precisa |
+| [VS Code](https://code.visualstudio.com/) | O editor, em cima desse terminal |
+
 ### Código aberto
 
 Na [Lack Zillions Over](https://github.com/Lack-Zillions-Over) a regra é ferramenta pequena, com um trabalho só.
